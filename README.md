@@ -79,5 +79,5 @@ mychart = new OpenChart(this);
 my twitter : <a href='https://www.twitter.com/zaki_chahboun'>@Zaki_Chahboun</a>
 
 Thanks to :
-<a href='https://www.opendesktop.org/member/267936/'>0THEFOX0http</a> ,
+<a href='https://www.opendesktop.org/member/267936/'>0THEFOX0</a> ,
 <a href='https://www.youtube.com/channel/UC6CdzK3QAxtr7giBwqk5eUA'>DuarteCorporation Channel</a>
