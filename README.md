@@ -45,7 +45,7 @@ where ***Your_Path*** is a path to *OpenChart* folder, for example : *C:/ZakiPro
 
 don't forget to include openchart header in your source code:
 ```c++
-"#include <openchart.h>" 
+#include <openchart.h>
 ```
 
 This is a Simple Example :
