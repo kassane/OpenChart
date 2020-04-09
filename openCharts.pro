@@ -2,8 +2,8 @@ CONFIG      += plugin #staticlib #debug_and_release
 TARGET      = $$qtLibraryTarget(openchartplugin)
 TEMPLATE    = lib
 
-HEADERS     = openchartplugin.h
-SOURCES     = openchartplugin.cpp
+HEADERS     = includes/openchartplugin.h
+SOURCES     = sources/openchartplugin.cpp
 RESOURCES   = icons.qrc
 LIBS        += -L. 
 
