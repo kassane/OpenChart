@@ -1,5 +1,6 @@
-HEADERS += openchart.h \
-    global_header.h \
-    qchartpiece.h
-SOURCES += openchart.cpp \
-    qchartpiece.cpp
+HEADERS += headers/openchart.h \
+        headers/global_header.h \
+        headers/qchartpiece.h
+
+SOURCES += sources/openchart.cpp \
+        sources/qchartpiece.cpp

@@ -1,4 +1,4 @@
-#include "qchartpiece.h"
+#include "headers/qchartpiece.h"
 
 QChartPiece::QChartPiece(QObject *parent) :
     QObject(parent)

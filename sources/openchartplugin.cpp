@@ -1,5 +1,5 @@
-#include "openchart.h"
-#include "openchartplugin.h"
+#include "headers/openchart.h"
+#include "headers/openchartplugin.h"
 
 #include <QtPlugin>
 

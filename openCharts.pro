@@ -2,9 +2,9 @@ CONFIG      += plugin #staticlib #debug_and_release
 TARGET      = $$qtLibraryTarget(openchartplugin)
 TEMPLATE    = lib
 
-HEADERS     = includes/openchartplugin.h
+HEADERS     = headers/openchartplugin.h
 SOURCES     = sources/openchartplugin.cpp
-RESOURCES   = icons.qrc
+RESOURCES   = resources/icons.qrc
 LIBS        += -L. 
 
 greaterThan(QT_MAJOR_VERSION, 4) {

@@ -1,4 +1,4 @@
-#include "openchart.h"
+#include "headers/openchart.h"
 #include <QDebug>
 #include <QTime>
 #include <qmath.h>

@@ -76,5 +76,4 @@ mychart = new OpenChart(this);
 ```
 
 
-Thanks to :
-@Author: <a href='https://www.opendesktop.org/member/267936/'>0THEFOX0</a> ,
+Thanks to Author: <a href='https://www.opendesktop.org/member/267936/'>0THEFOX0</a>
